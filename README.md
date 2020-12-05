@@ -1,6 +1,7 @@
 # Clinical Risk Prediction with Temporal Probabilistic Asymmetric Multi-Task Learning
 
-This repository is the official implementation of Clinical Risk Prediction with Temporal Probabilistic Asymmetric Multi-Task Learning.
+This repository is the official implementation of Clinical Risk Prediction with Temporal Probabilistic Asymmetric Multi-Task Learning (AAAI 2021).
+https://arxiv.org/abs/2006.12777
 
 ## Requirements
 
